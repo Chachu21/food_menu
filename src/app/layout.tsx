@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   robots: "index, follow",
   openGraph: {
     type: "website",
-    url: "https://www.yegnafoodies.com",
+    url: "https://food-menu-git-main-chachus-projects.vercel.app/",
     title: "Yegna Foodies - Exquisite Dining Experience",
     description:
       "Discover our menu of culinary delights, from fresh salads to artisanal coffee. Experience the fusion of Ethiopian and international cuisines.",
